@@ -17,5 +17,5 @@ func main() {
 	if value != "" {
 		fmt.Println(cli.ParseText(value))
 	}
-	fmt.Println("Test")
+	fmt.Println("Test 2")
 }
